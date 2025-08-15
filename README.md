@@ -1,1 +1,1 @@
-# SCT_CS_2
+This repository contains a simple image encryption tool developed using Python. It demonstrates basic pixel manipulation by swapping color channels and applying mathematical operations to images# SCT_CS_2
